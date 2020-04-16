@@ -1,0 +1,2 @@
+# GITtest
+to test GIT
